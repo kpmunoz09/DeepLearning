@@ -4,12 +4,12 @@ Este repositorio contiene los ejercicios prácticos y talleres desarrollados en 
 
 ## 📁 Contenido del Repositorio
 
-* **`Sanabria_Maria_Munoz_Karen_DLSem7.ipynb`**: Cuaderno de Colab correspondiente a la Semana 7, el cual incluye [añade aquí una breve descripción de lo que hace tu práctica, ej: la implementación de una red neuronal, procesamiento de imágenes, etc.].
+* **`Sanabria_Maria_Munoz_Karen_DLSem7.ipynb`**: Cuaderno de Colab correspondiente a la Semana 7, el cual incluye Autoencoder para procesamiento de imagenes del dataset MNIST.
 
 ## 🛠️ Tecnologías y Herramientas
 * Python
 * Google Colab
-* TensorFlow / Keras (o PyTorch, según lo que uses)
+* Keras 
 
 ## 👥 Autoras
 * María Sanabria
